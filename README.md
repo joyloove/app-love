@@ -1,10 +1,5 @@
-# AppLove
+# ♡ AppLove ♡
 
-* **Track:** _Common Core_
-* **Curso:** _Creando tu primer sitio web interactivo_
-* **Unidad:** _Maquetado web con HTML & CSS_
-
-***
 Para completar tu web **AppLove** hemos creado este repositorio boilerplate (plantilla inicial) con todos los recursos que necesitas. Esto incluye las imágenes y algunas clases CSS que ya hemos creado para ti :)
 
 ## Flujo de trabajo: Empieza por realizar un fork y clonar este repositorio
